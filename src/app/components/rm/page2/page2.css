@@ -1,0 +1,52 @@
+
+.img-page2-1 {
+    position: absolute;
+    right:0px;
+    width:100vw;
+    top: 0px;
+}
+
+.img-page2-3 {
+    position: absolute;
+    left:6vw;
+    width:88vw;
+    top: 10vw;  
+}
+
+.img-page2-2 {
+    position: absolute;
+    left:33vw;
+    width:36vw;
+    bottom: 14vw; 
+}
+
+
+
+.img-page2-4 {
+    position: absolute;
+    left:8vw;
+    width:38vw;
+    top: 40vw;
+}
+
+.img-page2-5 {
+    position: absolute;
+    right:8vw;
+    width:38vw;
+    top: 40vw;   
+}
+
+.img-page2-6 {
+    position: absolute;
+    left:8vw;
+    width:38vw;
+    top: 85vw;
+}
+
+.img-page2-7 {
+    position: absolute;
+    right:8vw;
+    width:38vw;
+    top: 85vw;   
+}
+  

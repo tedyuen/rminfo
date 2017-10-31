@@ -2,6 +2,7 @@
   "name": "rminfo",
   "version": "0.1.0",
   "private": true,
+  "homepage":"http://optest.reachmedia.cn:8980/rmInfo/",
   "dependencies": {
     "autoprefixer": "7.1.1",
     "babel-core": "6.25.0",
