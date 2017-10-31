@@ -21,7 +21,7 @@ class Page1 extends Component {
         <img src={img2} alt="img2"
               className="img-page1-2 ani"
               style={{visibility:'hidden'}}
-              data-slide-in="at 400 from fadeInUp use swing during 800"/> 
+              data-slide-in="at 400 from fadeInUpHalf use swing during 800"/> 
         <img src={img3} alt="img3"
               className="img-page1-3 ani"
               style={{visibility:'hidden'}}

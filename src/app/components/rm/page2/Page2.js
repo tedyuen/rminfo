@@ -15,7 +15,7 @@ class Page2 extends Component {
   render() {
 
     return (
-      <div id="page1-component" data-hash="page1" className="swiper-slide img img-1">
+      <div id="page2-component" data-hash="page2" className="swiper-slide img img-1">
         <img src={img1} alt="img1"
               className="img-page2-1 ani"
               style={{visibility:'hidden'}}
