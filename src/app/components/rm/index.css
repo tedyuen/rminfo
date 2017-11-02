@@ -37,6 +37,12 @@
 .img-4 {
 	background-image: url('./page4/images/1.jpg');
 }
+.img-6 {
+	background-image: url('./page6/images/1.jpg');
+}
+.img-7 {
+	background-image: url('./page7/images/1.jpg');
+}
 
 .up-arrow {
   position: absolute;
