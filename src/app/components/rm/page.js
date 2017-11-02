@@ -6,5 +6,6 @@ import Page5 from './page5/Page5'
 import Page6 from './page6/Page6'
 import Page7 from './page7/Page7'
 import Page8 from './page8/Page8'
+import Page9 from './page9/Page9'
 
-export { Page1,Page2,Page3,Page4,Page5,Page6,Page7,Page8 }
+export { Page1,Page2,Page3,Page4,Page5,Page6,Page7,Page8,Page9 }
