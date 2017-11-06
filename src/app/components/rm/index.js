@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './index.css';
-import {Page1,Page2,Page3,Page4,Page5,Page6,Page7,Page8,Page9} from './page'
+import {Page1,Page2,Page3,Page4,Page5,Page6,Page7,Page8,Page9,Page10,Page11,Page12,
+        Page13,Page14,Page15,Page16,Page17} from './page'
 
 const Swiper = window.Swiper;
 const $ = window.$;
@@ -49,15 +50,23 @@ class Index extends Component {
     return (
       <div className="swiper-container swiper-container-v">
         <div className="swiper-wrapper">
-          {/* <Page1/>
+          <Page1/>
           <Page2/>
           <Page3/>
           <Page4/>
           <Page5/>
           <Page6/>
           <Page7/>
-          <Page8/> */}
+          <Page8/>
           <Page9/>
+          <Page10/>
+          <Page11/>
+          <Page12/>
+          <Page13/>
+          <Page14/>
+          <Page15/>
+          <Page16/>
+          <Page17/>
         </div>
       </div>
     )

@@ -1,40 +1,34 @@
 
-.img-page10-2 {
+.img-page11-2 {
     position: absolute;
     left:0vw;
     width:54vw;
     top: 0vw; 
 }
 
-.img-page10-3 {
+.img-page11-3 {
     position: absolute;
     left:9vw;
     width:33vw;
     top: 15vw;  
 }
 
-.img-page10-4 {
+.img-page11-4 {
     position: absolute;
     left:5vw;
     width:90vw;
-    top: 35vw;
+    top: 28vw;
 }
 
-.img-page10-5 {
+.img-page11-5 {
     position: absolute;
     left:5vw;
-    width:88vw;
-    top: 55vw;
+    width:90vw;
+    top: 40vw;
 }
-.img-page10-6 {
+.img-page11-6 {
     position: absolute;
     left:5vw;
-    width:75vw;
-    top: 70vw;
-}
-.img-page10-7 {
-    position: absolute;
-    right:3vw;
-    width:94vw;
-    bottom: 2vw;
+    width:90vw;
+    bottom: 4vw;
 }

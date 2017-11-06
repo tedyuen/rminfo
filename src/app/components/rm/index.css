@@ -22,7 +22,7 @@
 }
 .img {
   background-repeat: no-repeat;
-  background-size: 107% 100%;
+  background-size: 100% 100%;
   background-position: center center;
   /*background-attachment: fixed;*/
   position: relative;
@@ -48,6 +48,24 @@
 }
 .img-9 {
 	background-image: url('./page9/images/1.jpg');
+}
+.img-10 {
+	background-image: url('./page10/images/1.jpg');
+}
+.img-11 {
+	background-image: url('./page11/images/1.jpg');
+}
+.img-12 {
+	background-image: url('./page12/images/1.jpg');
+}
+.img-13 {
+	background-image: url('./page13/images/1.jpg');
+}
+.img-15 {
+	background-image: url('./page15/images/1.jpg');
+}
+.img-16 {
+	background-image: url('./page16/images/1.jpg');
 }
 
 .up-arrow {

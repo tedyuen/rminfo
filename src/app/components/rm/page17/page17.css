@@ -1,0 +1,35 @@
+
+.img-page17-1 {
+    position: absolute;
+    left:0vw;
+    width:100vw;
+    top: 0vw; 
+}
+
+.img-page17-2 {
+    position: absolute;
+    right:0vw;
+    width:33vw;
+    top: 60vw; 
+}
+
+.img-page17-3 {
+    position: absolute;
+    left:5vw;
+    width:60vw;
+    top: 103vw;  
+}
+
+.img-page17-4 {
+    position: absolute;
+    left:25vw;
+    width:40vw;
+    bottom: 16vw;  
+}
+
+.img-page17-5 {
+    position: absolute;
+    right:0vw;
+    width:85vw;
+    bottom: 2vw;  
+}
