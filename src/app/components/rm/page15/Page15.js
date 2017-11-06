@@ -14,7 +14,7 @@ class Page15 extends Component {
         <img src={img2} alt="img1"
               className="img-page15-1 ani"
               style={{visibility:'hidden'}}
-              data-slide-in="at 0 from flipInY use swing during 800"/>  
+              data-slide-in="at 0 from fadeInDown use swing during 800"/>  
        
         <img src={upArrow} alt="upArrow" className="up-arrow"/>
       </div>
